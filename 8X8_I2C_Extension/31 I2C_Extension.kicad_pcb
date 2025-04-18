@@ -3670,6 +3670,9 @@
   (gr_arc (start 122.738 1.238) (mid 123.276825 1.46118) (end 123.5 2) (layer "Edge.Cuts") (width 0.2) (tstamp f0c45884-8070-4b62-8199-2142e78197e3))
   (gr_arc (start 123.496189 88.346385) (mid 123.273012 88.885209) (end 122.734189 89.108385) (layer "Edge.Cuts") (width 0.2) (tstamp f254d473-ab5e-44ca-b36b-8cc328ff649a))
   (gr_circle (center 119.699004 85.1818) (end 121.399004 85.1818) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp f98a979b-117c-4405-bd86-2cf48397b7d5))
+  (gr_text "V1.0.0" (at 95 87) (layer "F.SilkS") (tstamp 7b87fefe-b130-45ca-928a-016d514365e9)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
 
   (segment (start 35.06939 34.50939) (end 35.80401 35.24401) (width 0.5) (layer "B.Cu") (net 1) (tstamp 0907373f-2c53-4e7d-8db2-12868757958f))
   (segment (start 23.35401 26.61201) (end 23.35401 34.50939) (width 0.5) (layer "B.Cu") (net 1) (tstamp 129865f1-0230-45eb-9812-944eb3d03dba))
