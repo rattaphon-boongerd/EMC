@@ -5727,6 +5727,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "TARA_T8X"
+		(exclude_from_sim no)
+		(at 219.456 236.728 0)
+		(effects
+			(font
+				(size 5 5)
+			)
+		)
+		(uuid "8a1a9455-6831-458a-b62c-a4d8c4385cb7")
+	)
 	(text "LCD"
 		(exclude_from_sim no)
 		(at 268.605 87.63 0)
