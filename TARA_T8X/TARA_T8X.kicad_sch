@@ -6846,6 +6846,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 224.79) (xy 219.71 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4966ce43-984f-4e5d-84f4-7b0c63386c8d")
+	)
+	(wire
+		(pts
 			(xy 113.03 199.39) (xy 111.76 198.12)
 		)
 		(stroke
@@ -14958,7 +14968,7 @@
 				)
 			)
 		)
-		(property "Footprint" "my_footprint:RS485-TTL"
+		(property "Footprint" "rs485_module:RS485-TTL"
 			(at 234.823 177.8 0)
 			(effects
 				(font
