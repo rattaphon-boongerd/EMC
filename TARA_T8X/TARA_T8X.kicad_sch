@@ -5869,6 +5869,12 @@
 		(uuid "58e1dea8-031c-4306-9f95-de0697ef55f4")
 	)
 	(junction
+		(at 186.69 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "59c619c0-1f70-4dfa-a3a7-836a7427b93b")
+	)
+	(junction
 		(at 130.81 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5881,10 +5887,22 @@
 		(uuid "5c269c42-c77f-487d-b113-38732a818b51")
 	)
 	(junction
+		(at 184.15 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d4d15bc-88ca-4e28-b377-f1537dcb95c3")
+	)
+	(junction
 		(at 130.81 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6088c098-00bf-4429-a379-5a3389c71dd5")
+	)
+	(junction
+		(at 185.42 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "61f0e212-781c-408c-8944-5582c9082e8f")
 	)
 	(junction
 		(at 274.574 87.249)
@@ -5917,6 +5935,12 @@
 		(uuid "6cd7f201-dd0e-4c36-bd3e-1f10f2b1d2bb")
 	)
 	(junction
+		(at 185.42 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "71ffe49d-5f99-493c-83d9-31c7322283ca")
+	)
+	(junction
 		(at 137.795 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5927,6 +5951,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "764ff05c-bca8-4133-8dc6-b7290dca1ff4")
+	)
+	(junction
+		(at 182.88 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "830df533-7645-42a6-b20f-abfcbd1fe825")
 	)
 	(junction
 		(at 333.629 81.915)
@@ -5953,10 +5983,34 @@
 		(uuid "a7064409-4bda-4cac-955d-3c16a27e2374")
 	)
 	(junction
+		(at 186.69 194.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ab020574-830f-46fe-b40b-06c733a4884e")
+	)
+	(junction
+		(at 185.42 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ae19f6b9-cd27-408b-afcb-debff639d88a")
+	)
+	(junction
 		(at 196.977 43.307)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b1b88b3c-067c-4c3d-b037-d84cb4d88471")
+	)
+	(junction
+		(at 182.88 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b63a28b5-7c49-4638-8996-a98050e5ec27")
+	)
+	(junction
+		(at 186.69 209.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b9a5c5ec-d7d0-4516-89c0-1632da5541c1")
 	)
 	(junction
 		(at 351.155 81.915)
@@ -6156,7 +6210,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 133.35) (xy 185.801 133.35)
+			(xy 182.88 133.35) (xy 184.15 133.35)
 		)
 		(stroke
 			(width 0)
@@ -6386,6 +6440,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 147.32) (xy 185.42 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1726f86d-90c5-498d-ab0f-fbac90620d7a")
+	)
+	(wire
+		(pts
 			(xy 199.263 208.915) (xy 198.501 209.55)
 		)
 		(stroke
@@ -6533,6 +6597,26 @@
 			(type default)
 		)
 		(uuid "22b38ac0-32d1-4799-9dc0-cb5f14ffe9db")
+	)
+	(wire
+		(pts
+			(xy 184.15 133.35) (xy 185.801 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22e2ec8e-bc6d-4c2d-9dd2-b13cb396fb19")
+	)
+	(wire
+		(pts
+			(xy 186.69 194.31) (xy 195.58 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2350f589-1fd1-4640-b991-9cb770782dba")
 	)
 	(wire
 		(pts
@@ -6716,6 +6800,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 208.28) (xy 186.69 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36d44c47-ca85-4f24-8294-10427cf23bef")
+	)
+	(wire
+		(pts
 			(xy 209.804 97.79) (xy 209.804 105.537)
 		)
 		(stroke
@@ -6816,6 +6910,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 132.08) (xy 184.15 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44b97cbf-6a2e-435a-9ee0-7b8c701b3203")
+	)
+	(wire
+		(pts
 			(xy 130.81 214.63) (xy 109.855 214.63)
 		)
 		(stroke
@@ -6846,7 +6950,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 224.79) (xy 219.71 224.79)
+			(xy 182.88 224.79) (xy 190.5 224.79)
 		)
 		(stroke
 			(width 0)
@@ -6936,7 +7040,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 209.55) (xy 198.501 209.55)
+			(xy 182.88 209.55) (xy 186.69 209.55)
 		)
 		(stroke
 			(width 0)
@@ -7186,7 +7290,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.182 86.36) (xy 182.88 86.36)
+			(xy 186.182 86.36) (xy 185.42 86.36)
 		)
 		(stroke
 			(width 0)
@@ -7326,6 +7430,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 100.33) (xy 182.88 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f2dc475-350d-4363-8aa2-a2b994cbf6fd")
+	)
+	(wire
+		(pts
 			(xy 318.389 144.78) (xy 328.549 144.78)
 		)
 		(stroke
@@ -7433,6 +7547,16 @@
 			(type default)
 		)
 		(uuid "8e3f84b5-3873-4a62-bde7-a5bfc405ac2a")
+	)
+	(wire
+		(pts
+			(xy 185.42 86.36) (xy 182.88 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e3f86e6-0ca8-448e-91bf-9dceb57b15db")
 	)
 	(wire
 		(pts
@@ -7576,7 +7700,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 179.07) (xy 193.675 179.07)
+			(xy 182.88 179.07) (xy 186.69 179.07)
 		)
 		(stroke
 			(width 0)
@@ -7926,7 +8050,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 194.31) (xy 195.58 194.31)
+			(xy 182.88 194.31) (xy 186.69 194.31)
 		)
 		(stroke
 			(width 0)
@@ -8016,6 +8140,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 148.59) (xy 182.88 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b830eaac-317f-469e-9dce-1b46e70a8643")
+	)
+	(wire
+		(pts
 			(xy 211.582 132.207) (xy 211.582 152.527)
 		)
 		(stroke
@@ -8023,6 +8157,16 @@
 			(type default)
 		)
 		(uuid "ba3178fc-3ef1-4453-84e8-7459a4c6b36c")
+	)
+	(wire
+		(pts
+			(xy 186.69 193.04) (xy 186.69 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bad2d68f-f9f9-4a29-90c5-b31aff64b221")
 	)
 	(wire
 		(pts
@@ -8096,7 +8240,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 163.83) (xy 190.5 163.83)
+			(xy 182.88 163.83) (xy 185.42 163.83)
 		)
 		(stroke
 			(width 0)
@@ -8126,6 +8270,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 162.56) (xy 185.42 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c590bab4-3553-46f5-bda6-52076e930019")
+	)
+	(wire
+		(pts
 			(xy 259.842 133.477) (xy 295.656 133.477)
 		)
 		(stroke
@@ -8143,6 +8297,16 @@
 			(type default)
 		)
 		(uuid "c67afb3e-fcf0-40e0-af8d-050f4a4eb7fb")
+	)
+	(wire
+		(pts
+			(xy 186.69 179.07) (xy 193.675 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8c30877-c51c-4080-9ab1-132fabe95644")
 	)
 	(wire
 		(pts
@@ -8223,6 +8387,16 @@
 			(type default)
 		)
 		(uuid "cfb59f45-4668-46f2-a0b9-919da5f8e315")
+	)
+	(wire
+		(pts
+			(xy 190.5 223.52) (xy 190.5 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d07b6579-35dd-4080-915d-5103ce46d09d")
 	)
 	(wire
 		(pts
@@ -8356,7 +8530,7 @@
 	)
 	(wire
 		(pts
-			(xy 188.595 148.59) (xy 182.88 148.59)
+			(xy 188.595 148.59) (xy 185.42 148.59)
 		)
 		(stroke
 			(width 0)
@@ -8373,6 +8547,16 @@
 			(type default)
 		)
 		(uuid "dd7aad8a-f9b2-47f2-94b0-a90ef2e4c1c0")
+	)
+	(wire
+		(pts
+			(xy 186.69 177.8) (xy 186.69 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd8b4604-b477-477f-a1fb-44bbb55a886f")
 	)
 	(wire
 		(pts
@@ -8393,6 +8577,16 @@
 			(type default)
 		)
 		(uuid "de586f5e-0e93-45e1-916c-22015b243583")
+	)
+	(wire
+		(pts
+			(xy 185.42 163.83) (xy 190.5 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "deb62b47-b3be-4882-b096-44a3ab52a220")
 	)
 	(wire
 		(pts
@@ -8513,6 +8707,16 @@
 			(type default)
 		)
 		(uuid "eb68c28b-f64e-42a4-b434-981f39540ebe")
+	)
+	(wire
+		(pts
+			(xy 182.88 115.57) (xy 182.88 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebb809f6-d9eb-4bd1-ada8-44699ae1e22e")
 	)
 	(wire
 		(pts
@@ -8643,6 +8847,16 @@
 			(type default)
 		)
 		(uuid "f7ec576d-c251-4803-a1e8-6d9ec784f27a")
+	)
+	(wire
+		(pts
+			(xy 186.69 209.55) (xy 198.501 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f81a6d09-0f3c-4bf7-8baa-e7af3703edde")
 	)
 	(wire
 		(pts
@@ -8803,6 +9017,16 @@
 			(justify left bottom)
 		)
 		(uuid "17bcdcec-8177-4020-94d6-a5dfa77a6853")
+	)
+	(label "IO04"
+		(at 190.5 224.79 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1a6acd97-d6b5-41d0-9798-68535f8e347f")
 	)
 	(label "3V3"
 		(at 261.239 83.82 180)
@@ -9095,6 +9319,74 @@
 		(uuid "fb3ecc26-76d0-4b94-81b6-dd766629f085")
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 184.15 129.54 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "00ae57f2-4ac8-445a-8012-7e73ea367f8d")
+		(property "Reference" "R64"
+			(at 182.626 129.54 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "560"
+			(at 184.15 128.016 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 184.15 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 184.15 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 184.15 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0260d10d-0687-44e5-997a-39677e9a4573")
+		)
+		(pin "2"
+			(uuid "6facd105-5dd2-48eb-ade5-267b60bde321")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "R64")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
 		(at 177.8 168.91 0)
@@ -9364,6 +9656,75 @@
 			(project ""
 				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
 					(reference "#PWR0148")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_1")
+		(lib_id "power:GND")
+		(at 186.69 187.96 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0314928a-7440-4a78-82e3-df01259c4bba")
+		(property "Reference" "#PWR08"
+			(at 180.34 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 182.118 187.96 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 186.69 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 186.69 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 186.69 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "94ce4177-e18c-451c-b2a9-415e4db8a111")
+		)
+		(pin "1"
+			(uuid "97c5fe03-2af5-448c-abad-01e44e251b21")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -9662,6 +10023,74 @@
 			(project ""
 				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
 					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 182.88 97.79 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "08663ec0-4fc4-4e98-a6c1-dada899a8f49")
+		(property "Reference" "R62"
+			(at 181.356 97.79 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "560"
+			(at 182.88 96.266 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 182.88 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 182.88 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 182.88 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "04953626-7967-40ac-a117-288ca7218227")
+		)
+		(pin "2"
+			(uuid "da3841e5-353a-42f3-bed8-7b05f473cd3c")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "R62")
 					(unit 1)
 				)
 			)
@@ -11119,6 +11548,75 @@
 			(project ""
 				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
 					(reference "#PWR0160")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_1")
+		(lib_id "power:GND")
+		(at 185.42 81.28 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "24a0a093-fa86-4520-9856-13040c883235")
+		(property "Reference" "#PWR01"
+			(at 179.07 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 181.61 80.01 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "49b79f08-efb0-453e-8817-edcc82548182")
+		)
+		(pin "1"
+			(uuid "0cbbe3db-37b6-4e0e-a122-5aab346526bc")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -13198,6 +13696,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 186.69 175.26 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4fd4bd96-40f9-48eb-9e9a-f357ff819424")
+		(property "Reference" "R67"
+			(at 185.166 175.26 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "560"
+			(at 186.69 173.736 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 186.69 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 186.69 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 186.69 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "28c5752e-f8b0-4089-9600-f8ec58cec2ef")
+		)
+		(pin "2"
+			(uuid "42483ad0-5747-4c6d-a2fa-821e043f2e8c")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "R67")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
 		(at 347.345 81.915 180)
 		(unit 1)
@@ -13603,6 +14169,75 @@
 			(project ""
 				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
 					(reference "R27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_1")
+		(lib_id "power:GND")
+		(at 185.42 142.24 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "533934c5-c194-4b80-aa2f-d90b0b3f56f3")
+		(property "Reference" "#PWR05"
+			(at 179.07 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 180.848 142.24 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "439ab7d5-dbe9-4110-81df-366196928dca")
+		)
+		(pin "1"
+			(uuid "194592ed-bdb0-4d97-b06a-672664f40342")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -14167,6 +14802,75 @@
 		)
 	)
 	(symbol
+		(lib_name "GND_1")
+		(lib_id "power:GND")
+		(at 184.15 127 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "677cf466-6044-4fd8-bd27-217f0cd4e5e0")
+		(property "Reference" "#PWR04"
+			(at 177.8 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 179.578 127 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 184.15 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.15 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 184.15 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "dc168944-9c3d-4ec4-8fe5-efa4719380e8")
+		)
+		(pin "1"
+			(uuid "d8407cf9-5114-4a52-8e3e-624833d8fddd")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "Q_PNP_BCE_2")
 		(lib_id "Device:Q_PNP_BCE")
 		(at 147.32 148.59 180)
@@ -14666,6 +15370,74 @@
 			(project ""
 				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
 					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 185.42 144.78 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6ffffe17-3e3d-4691-9ea8-41bb117ef6de")
+		(property "Reference" "R65"
+			(at 183.896 144.78 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "560"
+			(at 185.42 143.256 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 185.42 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "70a2f571-c8cf-4b0e-bbb9-3c17612d3e92")
+		)
+		(pin "2"
+			(uuid "4151fc0a-64d0-4472-8c57-7231e7d545e2")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "R65")
 					(unit 1)
 				)
 			)
@@ -15876,6 +16648,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 185.42 160.02 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8930083a-db58-4f08-ac98-4e39186e96db")
+		(property "Reference" "R66"
+			(at 183.896 160.02 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "560"
+			(at 185.42 158.496 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 185.42 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9ca4ddbd-69bf-4bbc-a655-1b8bad89a532")
+		)
+		(pin "2"
+			(uuid "a743369b-c1b3-4289-8989-d26038139a57")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "R66")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
 		(at 177.8 138.43 0)
@@ -15939,6 +16779,142 @@
 			(project ""
 				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
 					(reference "#PWR0136")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 182.88 113.03 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "89caca38-ecc2-4002-958d-deb909e7e063")
+		(property "Reference" "R63"
+			(at 181.356 113.03 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "560"
+			(at 182.88 111.506 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 182.88 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 182.88 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 182.88 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "294d1fbc-5c18-423b-8049-a3f5795732b2")
+		)
+		(pin "2"
+			(uuid "30ba90ad-f1d3-4210-8181-a472fab0a33f")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "R63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 190.5 220.98 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8ab5075e-58ea-4ad7-b4ce-99e420a464a2")
+		(property "Reference" "R70"
+			(at 188.976 220.98 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "560"
+			(at 190.5 219.456 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 190.5 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 190.5 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 190.5 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a91fdd5e-b5f1-423b-a7bf-ad04ac6030cc")
+		)
+		(pin "2"
+			(uuid "5e6cf62d-6195-4399-ac1d-ce1f2be9d7ff")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "R70")
 					(unit 1)
 				)
 			)
@@ -16917,6 +17893,75 @@
 	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
+		(at 190.5 218.44 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9a831612-d157-4976-825a-1e499abd166c")
+		(property "Reference" "#PWR010"
+			(at 184.15 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 185.928 218.44 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 190.5 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 190.5 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 190.5 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "9aeef7a7-e985-46ba-b7d9-9e96861385c1")
+		)
+		(pin "1"
+			(uuid "f8c704e3-42f1-4536-8152-ebdf5219dba2")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_1")
+		(lib_id "power:GND")
 		(at 177.8 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17046,6 +18091,74 @@
 			(project ""
 				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
 					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 186.69 205.74 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9e487007-b8e8-4ec9-b483-16afbdee69c3")
+		(property "Reference" "R69"
+			(at 185.166 205.74 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "560"
+			(at 186.69 204.216 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 186.69 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 186.69 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 186.69 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "58abae23-7774-4dc6-80f6-4fc39e98ccbb")
+		)
+		(pin "2"
+			(uuid "3a0986bc-8550-4441-a892-f03d6e529730")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "R69")
 					(unit 1)
 				)
 			)
@@ -17991,6 +19104,75 @@
 			(project ""
 				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
 					(reference "Ren1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_1")
+		(lib_id "power:GND")
+		(at 186.69 172.72 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ac814f22-691e-4d95-82b1-8814dff56e93")
+		(property "Reference" "#PWR07"
+			(at 180.34 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 182.118 172.72 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 186.69 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 186.69 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 186.69 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "d4aaeb0c-bb8c-429d-8291-cc93c4456f81")
+		)
+		(pin "1"
+			(uuid "bf9dec83-6852-4c27-b7b6-d69c6f30f8b0")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -20131,6 +21313,75 @@
 		)
 	)
 	(symbol
+		(lib_name "GND_1")
+		(lib_id "power:GND")
+		(at 182.88 110.49 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cdfd3a65-952b-404e-a1b0-6e68fe8b714b")
+		(property "Reference" "#PWR03"
+			(at 176.53 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 178.308 110.49 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 182.88 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 182.88 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "5c7a746e-4584-485f-8d06-3f2c8fe04b07")
+		)
+		(pin "1"
+			(uuid "24e9c20a-66f1-4562-a206-3dfec119b76c")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 340.995 81.915 90)
 		(unit 1)
@@ -20193,6 +21444,74 @@
 			(project ""
 				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
 					(reference "RL2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 185.42 83.82 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d19dfec7-8e78-4e28-8d79-cf2ea973e14f")
+		(property "Reference" "R61"
+			(at 183.642 82.296 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "560"
+			(at 185.42 82.296 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 185.42 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cc3ca2a0-55ae-4c4d-90e7-aaac38bde0d5")
+		)
+		(pin "2"
+			(uuid "496250f6-83cf-42a9-bf62-5e9a03876ad6")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "R61")
 					(unit 1)
 				)
 			)
@@ -20351,6 +21670,75 @@
 		)
 	)
 	(symbol
+		(lib_name "GND_1")
+		(lib_id "power:GND")
+		(at 186.69 203.2 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dbc66ec0-d146-45ef-91d1-ec10ecfff339")
+		(property "Reference" "#PWR09"
+			(at 180.34 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 182.118 203.2 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 186.69 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 186.69 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 186.69 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "6b9a6b00-465c-41f5-8e86-921d999344ef")
+		)
+		(pin "1"
+			(uuid "9940bf4a-5ab4-49cd-8a18-d49bc7430beb")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 226.314 83.693 0)
 		(unit 1)
@@ -20489,6 +21877,75 @@
 			(project ""
 				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
 					(reference "OPTO6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_1")
+		(lib_id "power:GND")
+		(at 185.42 157.48 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "de46bdaf-de4f-49d2-93e1-b1d848b08055")
+		(property "Reference" "#PWR06"
+			(at 179.07 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 180.848 157.48 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "b8bb6603-aa56-4e77-8d61-a78356336a9a")
+		)
+		(pin "1"
+			(uuid "897d0fd0-cdd1-4a79-9a75-e3aae6c3e99d")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -21040,6 +22497,74 @@
 			(project ""
 				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
 					(reference "Q7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 186.69 190.5 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e9b252d7-ad8f-456a-991a-8d6bedc2f4ea")
+		(property "Reference" "R68"
+			(at 185.166 190.5 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "560"
+			(at 186.69 188.976 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 186.69 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 186.69 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 186.69 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f55900d4-bd4d-4cf7-8162-873a4050bdd1")
+		)
+		(pin "2"
+			(uuid "b39bb9ab-8f1a-4b97-872a-53a9612c851c")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "R68")
 					(unit 1)
 				)
 			)
@@ -21744,6 +23269,75 @@
 			(project ""
 				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
 					(reference "Q10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_1")
+		(lib_id "power:GND")
+		(at 182.88 95.25 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fa2a4cc7-aa04-4f49-8346-5c3cd6b7fdcd")
+		(property "Reference" "#PWR02"
+			(at 176.53 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 178.308 95.25 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 182.88 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 182.88 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "dcf95cdf-a5b3-40ab-85a2-9ca4e4164c60")
+		)
+		(pin "1"
+			(uuid "e8e7953f-99f0-4130-8300-e12f2b468289")
+		)
+		(instances
+			(project "TARA_T8X"
+				(path "/e95adc75-6520-49d4-b002-a9e49a063d98"
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
